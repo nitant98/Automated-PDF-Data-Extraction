@@ -1,6 +1,5 @@
 
-## Assignment 4
-Automated PDF Data Extraction and Querying Pipeline with Airflow and Snowflake Integration
+# Automated PDF Data Extraction and Querying Pipeline with Airflow and Snowflake Integration
 
 
 ## Problem Statement:
@@ -16,13 +15,6 @@ Develop an end-to-end pipeline utilizing Airflow to automate the extraction and 
     c. Loading the data and metadata into Snowflake.
 
   2.Develop a separate FastAPI service to interact with Snowflake and provide query responses.
-
-
-## Codelab
-
-[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1GaUW9ixS5DoZZtLuGraSBG1kyH8JeJ18ZtBA3PeZngo#4)
-
-[Demo](https://www.youtube.com/watch?v=Aocn1MS2RkA)
 
 ## Technologies Used
 
@@ -163,12 +155,4 @@ Grobid: http://34.75.0.13:8070/
 7. **Fetch Results**: Navigate to the "Fetch Result" page on the Streamlit interface. Select a table from which you want to retrieve data from Snowflake. Write a prompt and click on "Generate SQL Query". Review the generated SQL query and edit if necessary. Finally, click on "Execute Query" to retrieve the desired data from the Snowflake table.
 
 By following these steps, you should be able to run the application locally and interact with it using the provided Streamlit interface to upload PDF files, trigger data processing pipelines, and query Snowflake for results.
-
-
-## Team Information and Contribution 
-
-Name           | NUID          |
----------------|---------------|
-Anirudh Joshi  | 002991365     |      
-Nitant Jatale  | 002776669     |      
-Rutuja More    | 00272782      |      
+ 
