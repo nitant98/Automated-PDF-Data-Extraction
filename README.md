@@ -27,14 +27,6 @@ Develop an end-to-end pipeline utilizing Airflow to automate the extraction and 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
 [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
 
-## Project URLs
-
-Airflow: http://34.75.0.13:8080/
-FastAPI: http://34.75.0.13:8095/docs
-Streamlit: http://34.75.0.13:8000/
-Grobid: http://34.75.0.13:8070/
-
-
 ## Project Structure
 
 ```
